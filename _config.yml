@@ -1,0 +1,5 @@
+title: Open Community Leadership
+description: Helping communities create future contributors and leaders
+theme: jekyll-theme-minimal
+exclude:
+  - LICENSE.md
